@@ -12,6 +12,9 @@
 
 use this link  to create a room 
 https://tictactoe-c19f8.web.app/#/main-menu
+
+please copy and paste above link in two seperate tabs to create and join game
+
 ![image](https://user-images.githubusercontent.com/53884276/168465831-38cdb0dd-654c-44af-8044-48b05152394d.png)
 
 ## copy room id from here
