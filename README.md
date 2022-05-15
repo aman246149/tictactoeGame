@@ -1,16 +1,30 @@
 # tictactoe
 
-A new Flutter project.
+-Create/Join Room
+-Play Realtime
+-Display Points
+-Round & Game Winner
+-Responsive Glow Themed UI
+-Cross Platform Game
+-use sockets for real time multiplayer game
 
-## Getting Started
+# Try the game 
 
-This project is a starting point for a Flutter application.
+use this link  to create a room 
+https://tictactoe-c19f8.web.app/#/main-menu
+![image](https://user-images.githubusercontent.com/53884276/168465831-38cdb0dd-654c-44af-8044-48b05152394d.png)
 
-A few resources to get you started if this is your first Flutter project:
+## copy room id from here
+![image](https://user-images.githubusercontent.com/53884276/168465858-fd3571f1-00a1-46ac-8ed1-65035cdd660a.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+use this link again to join a room by using room ID 
+https://tictactoe-c19f8.web.app/#/main-menu
+## enter game id and username
+![image](https://user-images.githubusercontent.com/53884276/168465879-ac397ad7-d44f-4db0-ba7f-e513b29a3fc3.png)
+
+## now enjoy real time game
+![image](https://user-images.githubusercontent.com/53884276/168465921-c8405dee-9b4b-4b4e-b07b-f5a68245eeb1.png)
+
+play game and enjoy bro
+
