@@ -1,12 +1,12 @@
 # tictactoe
 
--Create/Join Room
--Play Realtime
--Display Points
--Round & Game Winner
--Responsive Glow Themed UI
--Cross Platform Game
--use sockets for real time multiplayer game
+- Create/Join Room
+- Play Realtime
+- Display Points
+- Round & Game Winner
+- Responsive Glow Themed UI
+- Cross Platform Game
+- use sockets for real time multiplayer game
 
 # Try the game 
 
